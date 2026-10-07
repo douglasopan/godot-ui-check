@@ -1,0 +1,39 @@
+{
+	"engine": "4.5.2-stable (official)",
+	"failures": 0,
+	"logic_only": true,
+	"output": "F:\\Codex\\Builds\\godot-ui-check/tests-1791397535-127742",
+	"renderer": "gl_compatibility",
+	"tests": [
+		{
+			"details": "",
+			"passed": true,
+			"test": "two registered callbacks"
+		},
+		{
+			"details": "",
+			"passed": true,
+			"test": "duplicate state rejected"
+		},
+		{
+			"details": "",
+			"passed": true,
+			"test": "unsafe state rejected"
+		},
+		{
+			"details": "",
+			"passed": true,
+			"test": "missing callback rejected"
+		},
+		{
+			"details": "",
+			"passed": true,
+			"test": "headless capture explicitly rejected"
+		},
+		{
+			"details": "",
+			"passed": true,
+			"test": "headless path preserves settings"
+		}
+	]
+}

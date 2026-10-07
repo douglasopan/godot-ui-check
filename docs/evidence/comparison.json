@@ -1,0 +1,104 @@
+{
+	"after_folder": "F:\\Codex\\Builds\\godot-ui-check/tests-1791397431-5324596/after-1791397431-6047221",
+	"before_folder": "F:\\Codex\\Builds\\godot-ui-check/tests-1791397431-5324596/before-1791397431-5328595",
+	"changed": 8,
+	"clock": "2026-01-15T09:00:00Z",
+	"device": "Radeon RX 570 Series",
+	"driver": "opengl3",
+	"engine": "4.5.2-stable (official)",
+	"font": "Godot bundled ThemeDB.fallback_font (engine-pinned)",
+	"pairs": [
+		{
+			"changed_percent": 17.667,
+			"changed_pixels": 61056,
+			"height": 720,
+			"id": "supply__480x720__en",
+			"locale": "en",
+			"pixel_sha256": "c16bd89365f81ad1fc3b719e5f44d9b847468c717b1f192949fbd2315a27362b",
+			"state": "supply",
+			"status": "changed",
+			"width": 480
+		},
+		{
+			"changed_percent": 17.889,
+			"changed_pixels": 61825,
+			"height": 720,
+			"id": "supply__480x720__pt_BR",
+			"locale": "pt_BR",
+			"pixel_sha256": "4e2b4d2201e69f0287f88bba9fe1a52ceb39bf9138a857f1a68877f942c63f9a",
+			"state": "supply",
+			"status": "changed",
+			"width": 480
+		},
+		{
+			"changed_percent": 5.083,
+			"changed_pixels": 31233,
+			"height": 640,
+			"id": "supply__960x640__en",
+			"locale": "en",
+			"pixel_sha256": "96a218dcad90c12c3bbeb5bc3fa48c0d92e30777c841bcd19485d5ff7db333e4",
+			"state": "supply",
+			"status": "changed",
+			"width": 960
+		},
+		{
+			"changed_percent": 5.132,
+			"changed_pixels": 31529,
+			"height": 640,
+			"id": "supply__960x640__pt_BR",
+			"locale": "pt_BR",
+			"pixel_sha256": "8e3e48f445bf055fce70038dec355018f2a7b5aa626e546526fb989387ffdb0c",
+			"state": "supply",
+			"status": "changed",
+			"width": 960
+		},
+		{
+			"changed_percent": 17.373,
+			"changed_pixels": 60042,
+			"height": 720,
+			"id": "packed__480x720__en",
+			"locale": "en",
+			"pixel_sha256": "c92691536242297a20601fc4fd426a848a31665e90b16151572c286b118a2884",
+			"state": "packed",
+			"status": "changed",
+			"width": 480
+		},
+		{
+			"changed_percent": 17.557,
+			"changed_pixels": 60677,
+			"height": 720,
+			"id": "packed__480x720__pt_BR",
+			"locale": "pt_BR",
+			"pixel_sha256": "3893fe4a74b9540ca2a019d9520d62bfbcd0ca3752f3461e75c4375f2771a6d2",
+			"state": "packed",
+			"status": "changed",
+			"width": 480
+		},
+		{
+			"changed_percent": 5.078,
+			"changed_pixels": 31199,
+			"height": 640,
+			"id": "packed__960x640__en",
+			"locale": "en",
+			"pixel_sha256": "4d97c2fb9ef469297ddd1f1c969cc92eaefa4e668352bd3e2b0287eb091b514f",
+			"state": "packed",
+			"status": "changed",
+			"width": 960
+		},
+		{
+			"changed_percent": 5.127,
+			"changed_pixels": 31499,
+			"height": 640,
+			"id": "packed__960x640__pt_BR",
+			"locale": "pt_BR",
+			"pixel_sha256": "e10ff5b2ff8705043cadeaba0c67c831ed5eeead4003e73d5747cdb78bda81f6",
+			"state": "packed",
+			"status": "changed",
+			"width": 960
+		}
+	],
+	"renderer": "gl_compatibility",
+	"schema": 1,
+	"seed": 2026,
+	"title": "Trail Supply / layout review"
+}

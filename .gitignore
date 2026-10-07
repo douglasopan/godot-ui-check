@@ -1,0 +1,12 @@
+.godot/
+*.log
+output/
+captures/
+test-evidence/
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.pck
+*.exe
+*.zip

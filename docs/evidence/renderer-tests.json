@@ -1,0 +1,149 @@
+{
+	"engine": "4.5.2-stable (official)",
+	"failures": 0,
+	"logic_only": false,
+	"output": "F:\\Codex\\Builds\\godot-ui-check/tests-1791397431-5324596",
+	"renderer": "gl_compatibility",
+	"tests": [
+		{
+			"details": "",
+			"passed": true,
+			"test": "two registered callbacks"
+		},
+		{
+			"details": "",
+			"passed": true,
+			"test": "duplicate state rejected"
+		},
+		{
+			"details": "",
+			"passed": true,
+			"test": "unsafe state rejected"
+		},
+		{
+			"details": "",
+			"passed": true,
+			"test": "missing callback rejected"
+		},
+		{
+			"details": "",
+			"passed": true,
+			"test": "invalid dimensions rejected"
+		},
+		{
+			"details": "",
+			"passed": true,
+			"test": "before renders eight cases"
+		},
+		{
+			"details": "",
+			"passed": true,
+			"test": "success restores locale/time/FPS/pause/window"
+		},
+		{
+			"details": "",
+			"passed": true,
+			"test": "after renders eight cases"
+		},
+		{
+			"details": "",
+			"passed": true,
+			"test": "before repeated pixels identical"
+		},
+		{
+			"details": "",
+			"passed": true,
+			"test": "after repeated pixels identical"
+		},
+		{
+			"details": "",
+			"passed": true,
+			"test": "repeat uses unique output folders"
+		},
+		{
+			"details": "",
+			"passed": true,
+			"test": "cancel keeps partial evidence and status"
+		},
+		{
+			"details": "",
+			"passed": true,
+			"test": "cancel restores settings"
+		},
+		{
+			"details": "",
+			"passed": true,
+			"test": "cancel during setup/settle restores settings"
+		},
+		{
+			"details": "",
+			"passed": true,
+			"test": "cancel while renderer is stopped remains responsive"
+		},
+		{
+			"details": "",
+			"passed": true,
+			"test": "stopped renderer times out and restores settings"
+		},
+		{
+			"details": "",
+			"passed": true,
+			"test": "output IO failure is explicit and preserves settings"
+		},
+		{
+			"details": "",
+			"passed": true,
+			"test": "run after cancel succeeds with same pixels"
+		},
+		{
+			"details": "",
+			"passed": true,
+			"test": "setup failure reported and settings restored"
+		},
+		{
+			"details": "F:\\Codex\\Builds\\godot-ui-check/tests-1791397431-5324596/review-1791397440-14696389/index.html",
+			"passed": true,
+			"test": "portable gallery and JSON generated"
+		},
+		{
+			"details": "",
+			"passed": true,
+			"test": "intentional changes detected"
+		},
+		{
+			"details": "",
+			"passed": true,
+			"test": "identical runs have zero changed pairs"
+		},
+		{
+			"details": "",
+			"passed": true,
+			"test": "mixed engine comparison rejected"
+		},
+		{
+			"details": "",
+			"passed": true,
+			"test": "cancelled manifest persisted"
+		},
+		{
+			"details": "",
+			"passed": true,
+			"test": "native primary action produces review"
+		},
+		{
+			"details": "",
+			"passed": true,
+			"test": "native before button captures before"
+		},
+		{
+			"details": "",
+			"passed": true,
+			"test": "native after button captures after"
+		},
+		{
+			"details": "",
+			"passed": true,
+			"test": "native cancel action ends sequence and restores controls"
+		}
+	]
+}

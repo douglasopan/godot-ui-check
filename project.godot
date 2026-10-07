@@ -1,0 +1,23 @@
+; Godot UI Check local proof. No editor plugin or export templates required.
+config_version=5
+
+[application]
+config/name="Godot UI Check"
+run/main_scene="res://lab/lab.tscn"
+config/features=PackedStringArray("4.5", "GL Compatibility")
+
+[display]
+window/size/viewport_width=1100
+window/size/viewport_height=760
+window/size/window_width_override=1100
+window/size/window_height_override=760
+window/stretch/mode="canvas_items"
+
+[rendering]
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
+textures/default_filters/use_nearest_mipmap_filter=false
+environment/defaults/default_clear_color=Color(0.063, 0.094, 0.125, 1)
+
+[debug]
+file_logging/enable_file_logging=false
